@@ -79,6 +79,6 @@
     "uglify-js": "^3.19.3",
     "vue-jest": "^3.0.7",
     "vue-template-compiler": "^2.6.12",
-    "webpack-bundle-analyzer": "^3.3.2"
+    "webpack-bundle-analyzer": "^4.0.0"
   }
 }
