@@ -71,7 +71,7 @@
     "babel-jest": "^29.7.0",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "29.7.0",
-    "license-webpack-plugin": "^2.3.0",
+    "license-webpack-plugin": "^4.0.0",
     "preload-webpack-plugin": "^2.3.0",
     "rimraf": "^3.0.2",
     "sass": "^1.32.11",
