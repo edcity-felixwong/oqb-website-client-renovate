@@ -75,7 +75,7 @@
     "preload-webpack-plugin": "^2.3.0",
     "rimraf": "^3.0.2",
     "sass": "^1.32.11",
-    "sass-loader": "^10.0.2",
+    "sass-loader": "^16.0.0",
     "uglify-js": "^3.19.3",
     "vue-jest": "^3.0.7",
     "vue-template-compiler": "^2.6.12",
