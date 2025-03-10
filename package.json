@@ -73,7 +73,7 @@
     "jest-environment-jsdom": "29.7.0",
     "license-webpack-plugin": "^2.3.0",
     "preload-webpack-plugin": "^2.3.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^6.0.0",
     "sass": "^1.32.11",
     "sass-loader": "^10.0.2",
     "uglify-js": "^3.19.3",
