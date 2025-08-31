@@ -44,7 +44,7 @@
     "qrcode": "^1.5.3",
     "register-service-worker": "^1.7.1",
     "url-search-params-polyfill": "^8.1.0",
-    "v-calendar": "^1.0.8",
+    "v-calendar": "^2.0.0",
     "vue": "^2.6.12",
     "vue-analytics": "^5.22.1",
     "vue-flatpickr-component": "^8.1.6",
